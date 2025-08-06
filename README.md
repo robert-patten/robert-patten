@@ -1,4 +1,4 @@
-# Hi, I'm Robby aspiring penetration tester and cybersecurity ninja 🥷
+# I'm Robby aspiring penetration tester and cybersecurity ninja 🥷
 
 
 With hands-on experience in user support, endpoint protection, and account management (Active Directory, Microsoft 365), I'm now focused on strengthening systems through better security practices.
